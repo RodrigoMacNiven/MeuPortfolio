@@ -1,0 +1,14 @@
+.presentation{
+    text-align: left;
+    margin-left: 10%;
+}
+.presentation h1{
+    margin-left: -3%;
+    margin-top: 5%;
+}
+
+.presentation p{
+    color: #BCBCBC;
+    font-weight: bold;
+}
+
